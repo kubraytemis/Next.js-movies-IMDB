@@ -1,0 +1,9 @@
+.movie-cart {
+  width: 25%;
+  padding: 1%;
+  text-align: center;
+}
+
+.movie-cart img {
+  width: 100%;
+}
